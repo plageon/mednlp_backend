@@ -1,0 +1,10 @@
+{
+  "output_dir": "output/ee/chinese-macbert-large",
+  "data_dir": "data",
+  "model_type": "bert",
+  "model_name": "chinese-macbert-large",
+  "task_name": "ee",
+  "epochs": 10,
+  "logging_steps": 100,
+  "result_output_dir":"output/"
+}
